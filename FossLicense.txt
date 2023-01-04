@@ -1,0 +1,8 @@
+Copiright (c) 2022
+Contributors: Juan Pablo Méndez
+Affiliation: Ecole des Mines Saint Étienne
+
+Permissive FOSS license
+
+Redistribution and use in source and binary forms, with or without modificarion, are permitted without any condition. 
+The use of the code to generate profits is also allowed as long as the authorship or acknowledgment of the original author is granted.
